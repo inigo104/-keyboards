@@ -20,8 +20,8 @@
     }
 
 /* encoder pins */
-#define ENCODERS_PAD_A { F5 }
-#define ENCODERS_PAD_B { F6 }
+#define ENCODERS_PAD_A { F6 }
+#define ENCODERS_PAD_B { F5 }
 #define ENCODER_RESOLUTION 2
 
 #define VIAL_ENCODER_DEFAULT { KC_A, KC_B, KC_C, KC_D, KC_TRNS, KC_TRNS, KC_TRNS, KC_TRNS }
